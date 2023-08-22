@@ -9,7 +9,7 @@ BootLoader库提供了爱普特不同系列芯片的升级代码。用户可以�
 </code>
 
 # 说明
-本仓库是爱普特芯片bootloader库的入口，所有的bootloader都可以在此找到。目前提供bootloader代码的芯片有APT32F110X , APT32F103X , APT32F171X , APT32F173X。更多芯片及其csi代码持续更新中，敬请期待~
+本仓库是爱普特芯片bootloader库的入口，所有的bootloader都可以在此找到。目前提供bootloader代码的芯片有 APT32F103X , APT32F173X。更多芯片及其csi代码持续更新中，敬请期待~
 
 # 内容
 
@@ -17,7 +17,5 @@ BootLoader库提供了爱普特不同系列芯片的升级代码。用户可以�
 该部分用于显示各芯片bootloader代码仓库。
 |csi demo|说明|
 |:----------|:-----------|
-[APT32F110X_bootloader](https://github.com/APT-AEteam/APT32F110X_Bootloader.git) |APT32F110X芯片的bootloader程序仓库
 [APT32F103X_bootloader](https://github.com/APT-AEteam/APT32F103X_Bootloader.git) |APT32F103X芯片的bootloader程序仓库
-[APT32F171X_bootloader](https://github.com/APT-AEteam/APT32F171X_Bootloader.git) |APT32F171X芯片的bootloader程序仓库
 [APT32F173X_bootloader](https://github.com/APT-AEteam/APT32F173X_Bootloader.git) |APT32F173X芯片的bootloader程序仓库
