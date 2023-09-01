@@ -9,7 +9,7 @@ BootLoader库提供了爱普特不同系列芯片的升级代码。用户可以�
 </code>
 
 # 说明
-本仓库是爱普特芯片bootloader库的入口，所有的bootloader都可以在此找到。目前提供bootloader代码的芯片有 APT32F103X , APT32F173X。更多芯片及其csi代码持续更新中，敬请期待~
+本仓库是爱普特芯片bootloader库的入口，所有的bootloader都可以在此找到。目前提供bootloader代码的芯片有 APT32F103X , APT32F173X , APT32F110X。更多芯片及其csi代码持续更新中，敬请期待~
 
 # 内容
 
